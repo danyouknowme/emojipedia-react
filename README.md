@@ -1,7 +1,7 @@
 # Emojipedia-React
 Try to use React JS to develop the web application.
 
-###Development
+### Development
 
 ```
 npm install
